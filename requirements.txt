@@ -1,0 +1,8 @@
+pandas
+seaborn
+numpy
+pickle
+matplotlib
+scikit-learn==1.4.0
+feature-engine
+xgboost
